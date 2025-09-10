@@ -12,10 +12,10 @@ AI-powered leaf disease detection system with a FastAPI backend and Streamlit we
 ## 🎯 Key Features
 
 ### 🎯 Core Capabilities
-- ** Advanced Disease Detection**: 500+ diseases across fungal, bacterial, viral, pests, and nutrient deficiencies.
-- ** Severity Assessment**: Classifies mild, moderate, severe with confidence scores.
-- ** Treatment Recommendations**: Evidence-based solutions per disease.
-- ** Real-time Processing**: Optimized for sub-5-second response times.
+- **Advanced Disease Detection**: 500+ diseases across fungal, bacterial, viral, pests, and nutrient deficiencies.
+- **Severity Assessment**: Classifies mild, moderate, severe with confidence scores.
+- **Treatment Recommendations**: Evidence-based solutions per disease.
+- **Real-time Processing**: Optimized for sub-5-second response times.
 
 ### 🏗️ Architecture Components
 - **FastAPI (app.py)**: RESTful API service with automatic OpenAPI documentation
