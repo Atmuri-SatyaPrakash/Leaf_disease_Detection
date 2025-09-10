@@ -7,6 +7,8 @@ AI-powered leaf disease detection system with a FastAPI backend and Streamlit we
 ![Leaf Disease Detection Demo](https://github.com/shukur-alom/leaf-diseases-detect/blob/main/Media/video.gif)
 
 
+**Live Website** - [Leaf disease Detection](https://atmuri-satya-prakash-leaf---disease---detection.streamlit.app/)
+
 ## 🎯 Key Features
 
 ### 🎯 Core Capabilities
